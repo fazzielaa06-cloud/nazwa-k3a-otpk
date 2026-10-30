@@ -1,0 +1,8 @@
+{
+  "name": "nazwa-k3a-otpk",
+  "description": "Sistem Informasi Manajemen Operasional Terminal Petikemas terintegrasi real-time untuk Master Data Kontainer \u0026 Kapal, Transaksi Gate EIR, Stevedoring, Monitoring Yard, dan Analitik Pelabuhan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
